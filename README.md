@@ -21,7 +21,7 @@
 ```python
 Languages:     Python (Core) • HTML/CSS (Basics), Typescript
 Tools:         Git • GitHub • VS Code • Git Bash • CLI
-Learning:      AI with Python • GitHub workflows • Markdown```
+Learning:      AI with Python • GitHub workflows • Markdown
 
 ---
 📂 My Featured Projects
