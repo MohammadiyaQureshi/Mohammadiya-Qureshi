@@ -21,8 +21,9 @@
 ```python
 Languages:     Python (Core) • HTML/CSS (Basics), Typescript
 Tools:         Git • GitHub • VS Code • Git Bash • CLI
-Learning:      AI with Python • GitHub workflows • Markdown
+Learning:      AI with Python • GitHub workflows • Markdown```
 
+---
 📂 My Featured Projects
 
 | 🧩 Project                  | 📝 Description                                       | 🔗 Link                                                                    |
@@ -32,11 +33,11 @@ Learning:      AI with Python • GitHub workflows • Markdown
 | ✂️ **Rock Paper Scissors**  | Play classic RPS against the computer                | [View Project](https://github.com/mohammadiyaqureshi/rock-scissor)         |
 | 🧭 **Adventure Game**       | A fun text-based journey game                        | [View Project](https://github.com/mohammadiyaqureshi/adventure-game)       |
 
-
+---
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammadiyaqureshi&show_icons=true&hide=prs&count_private=true&theme=default" /> </p>
-
+---
 📬 Contact Me
 📧 mohammadiyaqureshi@gmail.com
 
