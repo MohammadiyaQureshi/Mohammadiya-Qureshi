@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech & Tools
 
-```python
+python
 Languages:     Python (Core) • HTML/CSS (Basics), Typescript
 Tools:         Git • GitHub • VS Code • Git Bash • CLI
 Learning:      AI with Python • GitHub workflows • Markdown
@@ -43,4 +43,4 @@ Learning:      AI with Python • GitHub workflows • Markdown
 
 🌐 Visit My GitHub
 
-<p align="center"> Thank you for visiting my profile 🤍 May Allah bless you with barakah and brilliance! </p> ```
+<p align="center"> Thank you for visiting my profile 🤍 May Allah bless you with barakah and brilliance! </p> 
