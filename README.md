@@ -12,38 +12,42 @@
 - 🧠 Exploring programming for 2 years — mostly self-taught  
 - 🌟 Completed multiple **mini-projects** in Python  
 - 🛠 Currently polishing my GitHub and project presentation  
-- 🎯 Dreaming of becoming an impactful tech contributor, even from a small room!
+
 
 ---
 
 ## 🛠️ Tech & Tools
 
 **Languages & Logic:**  
-🐍 Python (Core + Projects)  
-🌐 HTML & CSS (Basic Web Structuring)  
-🧠 Markdown (for README & Docs)
+🐍 Python (2 years experience — focused on logic-building and terminal-based applications)  
+🌐   Typescript, HTML & CSS (basics for structural web pages)  
+🧠 Markdown (for clean and professional documentation)
 
-**Tools & Workflow:**  
-🔧 Git & GitHub (Version Control, Collaboration)  
-🖥️ Visual Studio Code (Main Code Editor)  
-💻 Git Bash & Command Line Interface (CLI)
+**Tools I Work With:**  
+🛠 Git & GitHub (project hosting, version control)  
+🖥 VS Code (daily driver for writing, testing, and debugging code)  
+⌨️ Git Bash & CLI (comfortable with command-line operations)
 
-**Projects I've Built:**  
-🎯 Terminal-based games (Quiz, Number Guess, Rock-Paper-Scissors)  
-🧭 Logic-focused text-based adventure games  
-📁 File handling & basic user input projects in Python
+---
 
-**Currently Learning & Exploring:**  
-🤖 Artificial Intelligence using Python (via Microsoft Learn)  
-📈 GitHub Profile Optimization & Professional Presentation  
-📦 Publishing & Documenting Projects for a Portfolio  
-🎯 Thinking deeply about **earning with tech skills** in a limited environment  
+## 🚧 Projects I've Built
 
-**Tech Goals Ahead:**  
-🚀 Build standout portfolio projects  
-🧩 Learn basic JavaScript for interactive frontend  
-💡 Master API usage & Python libraries (like Flask or Tkinter)  
-🌟 Contribute to GitHub & grow as a visible dev from Pakistan  
+🎯 **Mini Python Projects** – Number Guessing, Quiz App, Rock Paper Scissors (with emoji UI)  
+🧭 **Text-Based Adventure Game** – Decision-based terminal storytelling  
+🧪 Small utilities involving user input, loops, conditions, and data handling
+
+Each project is not just “practice” — it's a **step in building depth**, clarity, and real coding confidence.
+
+---
+
+## 📈 What I'm Currently Focusing On
+
+- Completing a **Microsoft Learn AI course** with Python  
+- Learning how to **present and document** my work like a professional  
+- Sharpening problem-solving through real projects, not tutorials  
+- Making **my GitHub a place that speaks before I do**
+
+---
 
 ---
 📂 My Featured Projects
@@ -57,11 +61,10 @@
 
 ---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammadiyaqureshi&show_icons=true&hide=prs&count_private=true&theme=default" /> </p>
----
-📬 Contact Me/n
-📧 mohammadiyaqureshi@gmail.com
+
+📬 Contact Me
+<p>
+📧 mohammadiyaqureshi@gmail.com<p>
 
 🌐 Visit My GitHub
 
