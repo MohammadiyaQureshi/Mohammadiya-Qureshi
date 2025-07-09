@@ -18,10 +18,32 @@
 
 ## 🛠️ Tech & Tools
 
-python
-Languages:     Python (Core) • HTML/CSS (Basics), Typescript
-Tools:         Git • GitHub • VS Code • Git Bash • CLI
-Learning:      AI with Python • GitHub workflows • Markdown
+**Languages & Logic:**  
+🐍 Python (Core + Projects)  
+🌐 HTML & CSS (Basic Web Structuring)  
+🧠 Markdown (for README & Docs)
+
+**Tools & Workflow:**  
+🔧 Git & GitHub (Version Control, Collaboration)  
+🖥️ Visual Studio Code (Main Code Editor)  
+💻 Git Bash & Command Line Interface (CLI)
+
+**Projects I've Built:**  
+🎯 Terminal-based games (Quiz, Number Guess, Rock-Paper-Scissors)  
+🧭 Logic-focused text-based adventure games  
+📁 File handling & basic user input projects in Python
+
+**Currently Learning & Exploring:**  
+🤖 Artificial Intelligence using Python (via Microsoft Learn)  
+📈 GitHub Profile Optimization & Professional Presentation  
+📦 Publishing & Documenting Projects for a Portfolio  
+🎯 Thinking deeply about **earning with tech skills** in a limited environment  
+
+**Tech Goals Ahead:**  
+🚀 Build standout portfolio projects  
+🧩 Learn basic JavaScript for interactive frontend  
+💡 Master API usage & Python libraries (like Flask or Tkinter)  
+🌟 Contribute to GitHub & grow as a visible dev from Pakistan  
 
 ---
 📂 My Featured Projects
@@ -38,7 +60,7 @@ Learning:      AI with Python • GitHub workflows • Markdown
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammadiyaqureshi&show_icons=true&hide=prs&count_private=true&theme=default" /> </p>
 ---
-📬 Contact Me
+📬 Contact Me/n
 📧 mohammadiyaqureshi@gmail.com
 
 🌐 Visit My GitHub
